@@ -1,2 +1,3 @@
 # test1
-test file from a test repo
+Test file.
+Checking sublime-merge and sublime-text
